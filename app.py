@@ -23,7 +23,7 @@ CITY_COORDINATES = {
     "Kolkata": (22.5726, 88.3639),
     "New York": (40.7128, -74.0060),
     "Nashik": (51.5074, -0.1278),
-    "Nandgaon": (35.6762, 139.6503),
+    "Manmad": (35.6762, 139.6503),
 }
 
 WEATHER_CODES = {
